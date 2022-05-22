@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'YScripts.de',
+  title: 'yscripts.de',
   tagline: 'Get easy copy and paste scripts from here!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
